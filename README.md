@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tes</h1>
+<h1 align="center">Hi, I'm Tes</h1>
 
 <p align="center">
   Computer Science Student • Full-Stack Developer • Backend Enthusiast
@@ -10,24 +10,24 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Computer Science Student
-- 🌐 Learning Full-Stack Development
-- ⚙️ Interested in Backend Engineering & System Design
-- ☁️ Exploring Cloud Computing
-- 📚 Passionate about building practical software solutions
-
----
-
-## 🛠️ Current Projects
-
-- 🏠 Rental Management Application
-- 👁️ OCR Assistant for Visually Impaired Users
+- Computer Science Student
+- Learning Full-Stack Development
+- Interested in Backend Engineering & System Design
+- Exploring Cloud Computing
+- Passionate about building practical software solutions
 
 ---
 
-## 💻 Tech Stack
+## Current Projects
+
+- Rental Management Application
+- OCR Assistant for Visually Impaired Users
+
+---
+
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,vue,nodejs,java,firebase,aws,mysql,git,github,vscode" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThyrexGG&show_icons=true&theme=github_dark&hide_border=true" />
@@ -43,22 +43,22 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ThyrexGG&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### 🏠 Rental Management System
+### Rental Management System
 A web application for managing rentals, tenants, payments, and property information.
 
-### 👁️ OCR Assistant
+### OCR Assistant
 An accessibility-focused OCR solution designed to help visually impaired users read printed text.
 
 ---
 
-## 🐍 GitHub Contribution
+## GitHub Contribution
 
 <p align="center">
   <picture>
@@ -70,7 +70,7 @@ An accessibility-focused OCR solution designed to help visually impaired users r
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/tes-bonnathyrak
 - Portfolio: https://your-portfolio.com
