@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThyrexGG&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyrexGG&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -62,9 +62,9 @@ An accessibility-focused OCR solution designed to help visually impaired users r
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -72,6 +72,6 @@ An accessibility-focused OCR solution designed to help visually impaired users r
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- LinkedIn: www.linkedin.com/in/tes-bonnathyrak
 - Portfolio: https://your-portfolio.com
-- Email: your@email.com
+- Email: Tesbonnathyrak@gmail.com
