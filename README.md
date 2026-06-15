@@ -6,13 +6,13 @@
 - Interested in cloud computing and system design
 
 ## Current Projects
-- CampusEats food ordering system
-- Minecraft server management tools
+- Rental app project
+- OCR for impaired user
 
 ## Tech Stack
 - JavaScript
-- TypeScript
 - React
+- Vue.js
 - Node.js
 - Firebase
 - AWS
