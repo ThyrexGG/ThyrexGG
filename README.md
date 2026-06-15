@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tes</h1>
+<h1 align="center">Hi, I'm Thyrak</h1>
 
 <p align="center">
   Computer Science Student • Full-Stack Developer • Backend Enthusiast
