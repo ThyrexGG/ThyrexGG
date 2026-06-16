@@ -66,6 +66,7 @@ An accessibility-focused OCR solution designed to help visually impaired users r
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/output/github-contribution-grid-snake.svg" />
     <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/output/github-contribution-grid-snake.svg" />
   </picture>
+  
 </p>
 
 ---
