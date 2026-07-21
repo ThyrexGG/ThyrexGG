@@ -1,12 +1,16 @@
 # Hi, I'm Thyrak
+
 <p align="center">
   Computer Science Student • Full-Stack Developer • Backend Enthusiast
 </p>
+  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Backend+Developer;Learning+Cloud+Computing;Building+Projects+Every+Day" alt="Typing SVG" />
 </p>
 ---
+
 ## About Me
+
 - Computer Science Student
 - Learning Full-Stack Development
 - Interested in Backend Engineering & System Design
