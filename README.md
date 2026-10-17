@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/tes-bonnathyrak"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:Tesbonnathyrak@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/ThyrexGG?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=ThyrexGG&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
