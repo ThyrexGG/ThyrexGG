@@ -55,7 +55,7 @@ I'm a Year III Bachelor of Software Engineering student at CamTech in Phnom Penh
 <a href="https://github.com/ThyrexGG/OCR-for-impaired-user"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-songkhem.svg" width="100%" alt="songKHEM" /></a>
 
 <p>
-  <a href="https://ocr-for-impaired-user.vercel.app"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo of songKHEM" /></a>
+  <a href="https://songkhem.com"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo of songKHEM" /></a>
   <a href="https://github.com/ThyrexGG/OCR-for-impaired-user"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code of songKHEM" /></a>
 </p>
 
