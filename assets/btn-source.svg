@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 40" width="136" height="40" role="img" aria-label="Source code on GitHub">
+<rect x="1" y="1" width="134" height="38" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="20" y="25" font-size="14" font-weight="700" fill="#58a6ff" font-family="ui-monospace,SFMono-Regular,Consolas,'Courier New',monospace">&lt;/&gt;</text>
+<text x="52" y="25" font-size="13" font-weight="700" letter-spacing="1.4" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,Consolas,'Courier New',monospace">SOURCE</text>
+<rect x="52" y="30" width="0" height="2" rx="1" fill="#58a6ff"><animate attributeName="width" values="0;62;62;0" keyTimes="0;0.35;0.8;1" dur="3.6s" repeatCount="indefinite"/></rect>
+</svg>

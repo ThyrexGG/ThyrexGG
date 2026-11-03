@@ -1,21 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" width="420" height="200" role="img" aria-label="songKHEM: Reads Khmer documents aloud for blind and low-vision users.">
-<defs>
-  <linearGradient id="g-songkhem" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient>
-  <linearGradient id="bg-songkhem" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b2b"/></linearGradient>
-  <radialGradient id="o-songkhem"><stop offset="0" stop-color="#bc8cff" stop-opacity="0.32"/><stop offset="1" stop-color="#bc8cff" stop-opacity="0"/></radialGradient>
-  <pattern id="p-songkhem" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#58a6ff" stroke-opacity="0.07"/></pattern>
-  <clipPath id="f-songkhem"><rect width="420" height="200" rx="16"/></clipPath>
-</defs>
-<g clip-path="url(#f-songkhem)" font-family="ui-monospace,SFMono-Regular,Consolas,'Courier New',monospace">
-  <rect width="420" height="200" fill="url(#bg-songkhem)"/>
-  <rect width="420" height="200" fill="url(#p-songkhem)"/>
-  <circle cy="40" r="120" fill="url(#o-songkhem)"><animate attributeName="cx" values="360;300;360" dur="9s" repeatCount="indefinite"/></circle>
-  <rect width="420" height="4" fill="url(#g-songkhem)"/>
-  <text x="24" y="34" font-size="12" fill="#8b949e">// 02 · accessibility / ocr + tts</text>
-  <text x="24" y="78" font-size="32" font-weight="800" fill="url(#g-songkhem)">songKHEM</text>
-  <text x="24" y="104" font-size="13" fill="#c9d1d9">Reads Khmer documents aloud</text>
-  <text x="24" y="122" font-size="13" fill="#c9d1d9">for blind and low-vision users.</text>
-  <rect x="24" y="150" width="44" height="26" rx="13" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.55"/><text x="46.0" y="167" text-anchor="middle" font-size="12" fill="#e6edf3">Vue</text><rect x="76" y="150" width="51" height="26" rx="13" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.55"/><text x="101.5" y="167" text-anchor="middle" font-size="12" fill="#e6edf3">Expo</text><rect x="135" y="150" width="110" height="26" rx="13" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.55"/><text x="190.0" y="167" text-anchor="middle" font-size="12" fill="#e6edf3">Cloud Vision</text>
+<clipPath id="f"><rect x="1" y="1" width="418" height="198" rx="14"/></clipPath>
+<rect x="1" y="1" width="418" height="198" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<g clip-path="url(#f)" font-family="ui-monospace,SFMono-Regular,Consolas,'Courier New',monospace">
+  <rect x="1" y="1" width="5" height="0" fill="#58a6ff"><animate attributeName="height" from="0" to="198" dur="0.8s" fill="freeze"/></rect>
+  <text x="28" y="38" font-size="12" fill="#8b949e">02 / Accessibility / OCR + TTS</text>
+  <text x="28" y="82" font-size="32" font-weight="800" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">songKHEM</text>
+  <text x="28" y="108" font-size="13" fill="#8b949e">Reads Khmer documents aloud</text>
+  <text x="28" y="126" font-size="13" fill="#8b949e">for blind and low-vision users.</text>
+  <rect x="28" y="148" width="44" height="26" rx="6" fill="none" stroke="#30363d"/><text x="50.0" y="165" text-anchor="middle" font-size="12" fill="#c9d1d9">Vue</text><rect x="80" y="148" width="51" height="26" rx="6" fill="none" stroke="#30363d"/><text x="105.5" y="165" text-anchor="middle" font-size="12" fill="#c9d1d9">Expo</text><rect x="139" y="148" width="110" height="26" rx="6" fill="none" stroke="#30363d"/><text x="194.0" y="165" text-anchor="middle" font-size="12" fill="#c9d1d9">Cloud Vision</text>
 </g>
-<rect x="1" y="1" width="418" height="198" rx="15" fill="none" stroke="#58a6ff" stroke-opacity="0.45" stroke-width="1.5"/>
 </svg>
