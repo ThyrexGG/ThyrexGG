@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a Year II Bachelor of Software Engineering student at CamTech in Phnom Penh. I like shipping whole products: the database, the API, and the web, mobile and desktop clients that sit on top.
+I'm a Year III Bachelor of Software Engineering student at CamTech in Phnom Penh. I like shipping whole products: the database, the API, and the web, mobile and desktop clients that sit on top.
 
 <table>
   <tr>
@@ -43,146 +43,47 @@ I'm a Year II Bachelor of Software Engineering student at CamTech in Phnom Penh.
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://github.com/ThyrexGG/rollcall"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-rollcall.svg" alt="Rollcall" /></a>
-    </td>
-    <td width="58%" valign="top">
-      <h3>Rollcall</h3>
-      Attendance app for Camtech Volleyball Club, built so a coach can run a session from a phone.
-      <ul>
-        <li>One tap per player: present, late, excused or absent</li>
-        <li>Training days and normal days tracked as separate percentages</li>
-        <li>Works offline: marks queue on the device and sync later</li>
-        <li>QR self check-in with an expiring code</li>
-        <li>Session and monthly reports shared to Telegram, plus CSV export</li>
-        <li>Co-coach access with row-level security</li>
-      </ul>
-      <a href="https://rollcall-volleyball.vercel.app"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo" /></a>
-      <a href="https://github.com/ThyrexGG/rollcall"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code" /></a>
-      <br/>
-      <img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Vite-21262d?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Supabase-21262d?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/Vercel-21262d?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ThyrexGG/rollcall"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-rollcall.svg" width="100%" alt="Rollcall" /></a>
+
+<p>
+  <a href="https://rollcall-volleyball.vercel.app"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo of Rollcall" /></a>
+  <a href="https://github.com/ThyrexGG/rollcall"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code of Rollcall" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/sep-demo.svg" width="100%" alt="" />
 
-<table>
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://github.com/ThyrexGG/OCR-for-impaired-user"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-songkhem.svg" alt="songKHEM" /></a>
-    </td>
-    <td width="58%" valign="top">
-      <h3>songKHEM</h3>
-      Accessibility app that reads Khmer documents aloud for blind and low-vision users.
-      <ul>
-        <li>Scan with the camera, an image or a multi-page PDF</li>
-        <li>On-device OCR, or Google Cloud Vision for higher accuracy</li>
-        <li>Azure neural voices with word-by-word highlighting</li>
-        <li>Web app plus an Expo mobile app</li>
-        <li>Serverless proxies keep API keys out of the browser</li>
-      </ul>
-      <a href="https://ocr-for-impaired-user.vercel.app"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo" /></a>
-      <a href="https://github.com/ThyrexGG/OCR-for-impaired-user"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code" /></a>
-      <br/>
-      <img src="https://img.shields.io/badge/Vue-21262d?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-      <img src="https://img.shields.io/badge/Expo-21262d?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      <img src="https://img.shields.io/badge/Google%20Cloud-21262d?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-      <img src="https://img.shields.io/badge/Azure%20TTS-21262d?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure TTS" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ThyrexGG/OCR-for-impaired-user"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-songkhem.svg" width="100%" alt="songKHEM" /></a>
+
+<p>
+  <a href="https://ocr-for-impaired-user.vercel.app"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo of songKHEM" /></a>
+  <a href="https://github.com/ThyrexGG/OCR-for-impaired-user"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code of songKHEM" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/sep-demo.svg" width="100%" alt="" />
 
-<table>
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://github.com/ThyrexGG/Trade_Logger"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-tradelogger.svg" alt="TradeLogger" /></a>
-    </td>
-    <td width="58%" valign="top">
-      <h3>TradeLogger</h3>
-      Personal trading journal and research platform, now in beta. Read-only by design: it never places an order.
-      <ul>
-        <li>Syncs trades from MetaTrader 5 and Capital.com</li>
-        <li>Performance analytics, risk sizing and price alerts</li>
-        <li>Backtesting and strategy-discovery lab</li>
-        <li>Read-only Gemini assistant for your own history</li>
-        <li>Clients: web, Electron desktop and Expo mobile</li>
-      </ul>
-      <a href="https://github.com/ThyrexGG/Trade_Logger"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code" /></a>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Electron-21262d?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ThyrexGG/Trade_Logger"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-tradelogger.svg" width="100%" alt="TradeLogger" /></a>
+
+<p>
+  <a href="https://github.com/ThyrexGG/Trade_Logger"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code of TradeLogger" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/sep-demo.svg" width="100%" alt="" />
 
-<table>
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://github.com/ThyrexGG/Internship-Project"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-homesweet.svg" alt="HomeSweet" /></a>
-    </td>
-    <td width="58%" valign="top">
-      <h3>HomeSweet</h3>
-      Rental and real-estate platform for Phnom Penh, Cambodia. Built with a five-member team, where I'm project manager and team representative.
-      <ul>
-        <li>Property search with an interactive map</li>
-        <li>Rental applications and digital lease agreements</li>
-        <li>ABA KHQR payments with PDF receipts</li>
-        <li>Real-time chat and roommate matching</li>
-        <li>360-degree virtual tours</li>
-        <li>Camera-based identity verification</li>
-      </ul>
-      <a href="https://internship-project-two-blush.vercel.app"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo" /></a>
-      <a href="https://github.com/ThyrexGG/Internship-Project"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code" /></a>
-      <br/>
-      <img src="https://img.shields.io/badge/Vue-21262d?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-      <img src="https://img.shields.io/badge/Firebase-21262d?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/Vercel-21262d?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ThyrexGG/Internship-Project"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-homesweet.svg" width="100%" alt="HomeSweet" /></a>
+
+<p>
+  <a href="https://internship-project-two-blush.vercel.app"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo of HomeSweet" /></a>
+  <a href="https://github.com/ThyrexGG/Internship-Project"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code of HomeSweet" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/sep-demo.svg" width="100%" alt="" />
 
-<table>
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://github.com/ThyrexGG/Restaurant"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-restaurant-pos.svg" alt="Restaurant POS" /></a>
-    </td>
-    <td width="58%" valign="top">
-      <h3>Restaurant POS</h3>
-      Ordering and point-of-sale platform for restaurants.
-      <ul>
-        <li>Customers order by scanning a table QR code</li>
-        <li>Live order board and inventory for staff</li>
-        <li>Flutter POS app for front-of-house</li>
-        <li>Menu and order sync with Loyverse</li>
-        <li>Instant updates to every device over WebSockets</li>
-      </ul>
-      <a href="https://restaurant-three-chi-91.vercel.app"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo" /></a>
-      <a href="https://github.com/ThyrexGG/Restaurant"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code" /></a>
-      <br/>
-      <img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Express-21262d?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/Socket.IO-21262d?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-      <img src="https://img.shields.io/badge/Prisma-21262d?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-      <img src="https://img.shields.io/badge/Flutter-21262d?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ThyrexGG/Restaurant"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-restaurant-pos.svg" width="100%" alt="Restaurant POS" /></a>
+
+<p>
+  <a href="https://restaurant-three-chi-91.vercel.app"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-demo.svg" height="36" alt="Live demo of Restaurant POS" /></a>
+  <a href="https://github.com/ThyrexGG/Restaurant"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code of Restaurant POS" /></a>
+</p>
 
 ---
 
