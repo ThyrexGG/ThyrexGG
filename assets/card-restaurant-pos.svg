@@ -1,7 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" width="420" height="200" role="img" aria-label="Restaurant POS: QR table ordering, live orders and a Flutter POS app.">
-<clipPath id="f"><rect x="1" y="1" width="418" height="198" rx="14"/></clipPath>
+<defs>
+  <clipPath id="f"><rect x="1" y="1" width="418" height="198" rx="14"/></clipPath>
+  <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3fb950" stop-opacity="0.10"/><stop offset="0.6" stop-color="#3fb950" stop-opacity="0"/></linearGradient>
+</defs>
 <rect x="1" y="1" width="418" height="198" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 <g clip-path="url(#f)" font-family="ui-monospace,SFMono-Regular,Consolas,'Courier New',monospace">
+  <rect x="1" y="1" width="418" height="198" fill="url(#t)"/>
+  <rect y="0" width="90" height="200" fill="url(#s)" transform="skewX(-20)"><animate attributeName="x" values="-160;520;520" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/></rect>
+  <circle cx="386" cy="35" r="4" fill="#3fb950"/>
+  <circle cx="386" cy="35" r="4" fill="none" stroke="#3fb950" stroke-width="1.5"><animate attributeName="r" values="4;11" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="372" y="39" text-anchor="end" font-size="11" font-weight="700" letter-spacing="1.4" fill="#3fb950">LIVE</text>
   <rect x="1" y="1" width="5" height="0" fill="#d29922"><animate attributeName="height" from="0" to="198" dur="0.8s" fill="freeze"/></rect>
   <text x="28" y="38" font-size="12" fill="#8b949e">05 / Real-time / POS</text>
   <text x="28" y="82" font-size="32" font-weight="800" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Restaurant POS</text>

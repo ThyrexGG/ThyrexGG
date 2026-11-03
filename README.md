@@ -67,6 +67,11 @@ I'm a Year II Bachelor of Software Engineering student at CamTech in Phnom Penh.
       <img src="https://img.shields.io/badge/Vercel-21262d?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
     </td>
   </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/sep-demo.svg" width="100%" alt="" />
+
+<table>
   <tr>
     <td width="42%" align="center" valign="middle">
       <a href="https://github.com/ThyrexGG/OCR-for-impaired-user"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-songkhem.svg" alt="songKHEM" /></a>
@@ -90,6 +95,11 @@ I'm a Year II Bachelor of Software Engineering student at CamTech in Phnom Penh.
       <img src="https://img.shields.io/badge/Azure%20TTS-21262d?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure TTS" />
     </td>
   </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/sep-demo.svg" width="100%" alt="" />
+
+<table>
   <tr>
     <td width="42%" align="center" valign="middle">
       <a href="https://github.com/ThyrexGG/Trade_Logger"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-tradelogger.svg" alt="TradeLogger" /></a>
@@ -113,6 +123,11 @@ I'm a Year II Bachelor of Software Engineering student at CamTech in Phnom Penh.
       <img src="https://img.shields.io/badge/Electron-21262d?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
     </td>
   </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/sep-demo.svg" width="100%" alt="" />
+
+<table>
   <tr>
     <td width="42%" align="center" valign="middle">
       <a href="https://github.com/ThyrexGG/Internship-Project"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-homesweet.svg" alt="HomeSweet" /></a>
@@ -136,6 +151,11 @@ I'm a Year II Bachelor of Software Engineering student at CamTech in Phnom Penh.
       <img src="https://img.shields.io/badge/Vercel-21262d?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
     </td>
   </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/sep-demo.svg" width="100%" alt="" />
+
+<table>
   <tr>
     <td width="42%" align="center" valign="middle">
       <a href="https://github.com/ThyrexGG/Restaurant"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-restaurant-pos.svg" alt="Restaurant POS" /></a>
