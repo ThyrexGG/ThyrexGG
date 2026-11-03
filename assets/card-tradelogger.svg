@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" width="420" height="200" role="img" aria-label="TradeLogger: Trading journal and research platform. Read-only by design.">
+<defs>
+  <linearGradient id="g-tradelogger" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#bc8cff"/><stop offset="1" stop-color="#ff7b72"/></linearGradient>
+  <linearGradient id="bg-tradelogger" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b2b"/></linearGradient>
+  <radialGradient id="o-tradelogger"><stop offset="0" stop-color="#ff7b72" stop-opacity="0.32"/><stop offset="1" stop-color="#ff7b72" stop-opacity="0"/></radialGradient>
+  <pattern id="p-tradelogger" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#bc8cff" stroke-opacity="0.07"/></pattern>
+  <clipPath id="f-tradelogger"><rect width="420" height="200" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#f-tradelogger)" font-family="ui-monospace,SFMono-Regular,Consolas,'Courier New',monospace">
+  <rect width="420" height="200" fill="url(#bg-tradelogger)"/>
+  <rect width="420" height="200" fill="url(#p-tradelogger)"/>
+  <circle cy="40" r="120" fill="url(#o-tradelogger)"><animate attributeName="cx" values="360;300;360" dur="9s" repeatCount="indefinite"/></circle>
+  <rect width="420" height="4" fill="url(#g-tradelogger)"/>
+  <text x="24" y="34" font-size="12" fill="#8b949e">// 03 · analytics / journal</text>
+  <text x="24" y="78" font-size="32" font-weight="800" fill="url(#g-tradelogger)">TradeLogger</text>
+  <text x="24" y="104" font-size="13" fill="#c9d1d9">Trading journal and research</text>
+  <text x="24" y="122" font-size="13" fill="#c9d1d9">platform. Read-only by design.</text>
+  <rect x="24" y="150" width="73" height="26" rx="13" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.55"/><text x="60.5" y="167" text-anchor="middle" font-size="12" fill="#e6edf3">FastAPI</text><rect x="105" y="150" width="59" height="26" rx="13" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.55"/><text x="134.5" y="167" text-anchor="middle" font-size="12" fill="#e6edf3">React</text><rect x="172" y="150" width="81" height="26" rx="13" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.55"/><text x="212.5" y="167" text-anchor="middle" font-size="12" fill="#e6edf3">Postgres</text>
+</g>
+<rect x="1" y="1" width="418" height="198" rx="15" fill="none" stroke="#bc8cff" stroke-opacity="0.45" stroke-width="1.5"/>
+</svg>
