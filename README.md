@@ -26,7 +26,7 @@ I'm a Year III Bachelor of Software Engineering student at CamTech in Phnom Penh
   <tr>
     <td width="33%" valign="top">
       <h4>What I build</h4>
-      Complete products, from database and API to web, mobile and desktop clients. Offline-first apps, real-time ordering, digital leases, KHQR payments, OCR with text-to-speech, and trading analytics.
+      Complete products, from database and API to web, mobile and desktop clients. Offline-first apps, real-time ordering, digital leases, KHQR payments, OCR with text-to-speech, trading analytics, and a private AI assistant that runs on local models.
     </td>
     <td width="33%" valign="top">
       <h4>How I work</h4>
@@ -85,6 +85,14 @@ I'm a Year III Bachelor of Software Engineering student at CamTech in Phnom Penh
   <a href="https://github.com/ThyrexGG/Restaurant"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code of Restaurant POS" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/sep-demo.svg" width="100%" alt="" />
+
+<a href="https://github.com/ThyrexGG/Loki"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/card-loki.svg" width="100%" alt="Loki" /></a>
+
+<p>
+  <a href="https://github.com/ThyrexGG/Loki"><img src="https://raw.githubusercontent.com/ThyrexGG/ThyrexGG/main/assets/btn-source.svg" height="36" alt="Source code of Loki" /></a>
+</p>
+
 ---
 
 ## How My Projects Fit Together
@@ -110,7 +118,7 @@ flowchart LR
         X["Payments<br/>ABA KHQR"]
         O["OCR + TTS<br/>Vision / Azure"]
         B["Brokers + POS<br/>MT5 / Loyverse"]
-        G["AI<br/>Gemini"]
+        G["AI<br/>Gemini / Ollama"]
     end
     W --> A
     M --> A
@@ -198,6 +206,7 @@ mindmap
       <img src="https://img.shields.io/badge/Java-21262d?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Prisma-21262d?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
       <img src="https://img.shields.io/badge/Socket.IO-21262d?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+      <img src="https://img.shields.io/badge/Ollama-21262d?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
     </td>
   </tr>
   <tr>
